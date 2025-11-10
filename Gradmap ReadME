@@ -1,0 +1,24 @@
+# GRADMAP Exoplanet Transmission Analysis
+
+This project was part of my undergraduate research internship through the GRADMAP Program at the University of Maryland. Our team focused on analyzing the transmission depth of two exoplanets using observational light curve data.
+
+## 🧪 Objective
+To determine and compare the atmospheric transmission depths of two exoplanets based on light curve data collected from space-based telescopes.
+
+## 🛠️ Tools & Technologies
+- Python
+- NumPy, Pandas
+- Matplotlib, Seaborn
+- Astropy
+- Jupyter Notebooks
+
+## 📈 Project Highlights
+- Cleaned and visualized transit light curve data for two selected exoplanets.
+- Calculated transmission depths and interpreted results in an astronomical context.
+- Presented our findings to program mentors and faculty.
+
+## 📊 Sample Output
+_(Insert images or graphs here)_
+
+## 🤝 Team & Acknowledgments
+Special thanks to GRADMAP, the University of Maryland Astronomy Department, and our mentors.
